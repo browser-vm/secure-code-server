@@ -1,0 +1,6 @@
+modal
+cryptography>=46.0.0
+nanoid
+fastapi
+uvicorn
+httpx
